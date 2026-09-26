@@ -1,5 +1,7 @@
 # dsh-local-file-search
 
+[English](README.en.md) · 中文
+
 ![@ 菜单里的本机文件搜索界面示意](assets/dsh-local-file-search.png)
 
 *界面示意：按官方主题变量渲染的版式，非实机截图。*
