@@ -42,7 +42,7 @@
     "author": "Ln1m (https://github.com/Ln1m)",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ln1m/dsh-local-file-search.git"
+        "url": "git+https://github.com/Ln1m/dsh-tool-file-search.git"
     },
     "homepage": "https://github.com/Ln1m/dsh-tool-file-search#readme",
     "bugs": {
