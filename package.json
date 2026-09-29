@@ -44,8 +44,8 @@
         "type": "git",
         "url": "git+https://github.com/Ln1m/dsh-local-file-search.git"
     },
-    "homepage": "https://github.com/Ln1m/dsh-local-file-search#readme",
+    "homepage": "https://github.com/Ln1m/dsh-tool-file-search#readme",
     "bugs": {
-        "url": "https://github.com/Ln1m/dsh-local-file-search/issues"
+        "url": "https://github.com/Ln1m/dsh-tool-file-search/issues"
     }
 }
